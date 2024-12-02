@@ -30,11 +30,4 @@ I) Plan du cours
 6. Pointeurs
    - Introduction aux pointeurs
 
-
-
-- Téléchargez le dépôt : `git clone https://github.com/username/C-Basics-Course.git`
-- Parcourez les chapitres et commencez à apprendre.
-- Contribuez à améliorer le contenu en suivant le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
-
-
 Ce projet est sous licence MIT.
